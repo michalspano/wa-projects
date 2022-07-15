@@ -7,4 +7,4 @@ Here I gather __personal projects__ made for `WA` using `Assembly Script` (AS). 
 
 ~🔧  __deploy__ `branch`
 
-## [Live Preview]([michalspano.github.io/wa-projects/](https://michalspano.github.io/wa-projects/))
+## [Live Preview](https://michalspano.github.io/wa-projects/)
